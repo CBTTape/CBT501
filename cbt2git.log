@@ -1,0 +1,22 @@
+2023-04-03 00:46:04.834246 - Initialized conversion of CBT501
+2023-04-03 00:46:05.038360 - Received CBT.V504.FILE501.PDS from FILE501.XMI 
+2023-04-03 00:46:05.040751 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE501.PDS, moved to PDS/$$$#DATE
+2023-04-03 00:46:05.041820 - Found $SNTP.jcl (text/plain) in CBT.V504.FILE501.PDS, moved to PDS/$SNTP
+2023-04-03 00:46:05.043317 - Found $SNTPRAT.jcl (text/plain) in CBT.V504.FILE501.PDS, moved to PDS/$SNTPRAT
+2023-04-03 00:46:05.044450 - Found $SNTPTST.jcl (text/plain) in CBT.V504.FILE501.PDS, moved to PDS/$SNTPTST
+2023-04-03 00:46:05.045543 - Found #NTP.rexx (text/plain) in CBT.V504.FILE501.PDS, moved to PDS/#NTP
+2023-04-03 00:46:05.046498 - Found #SNTP.rexx (text/plain) in CBT.V504.FILE501.PDS, moved to PDS/#SNTP
+2023-04-03 00:46:05.047555 - Found #STCK.rexx (text/plain) in CBT.V504.FILE501.PDS, moved to PDS/#STCK
+2023-04-03 00:46:05.048830 - Found @FILE501.txt (text/plain) in CBT.V504.FILE501.PDS, moved to PDS/@FILE501
+2023-04-03 00:46:05.049842 - Found @SNTPRAT.jcl (text/plain) in CBT.V504.FILE501.PDS, moved to PDS/@SNTPRAT
+2023-04-03 00:46:05.050810 - Found @SNTPTST.jcl (text/plain) in CBT.V504.FILE501.PDS, moved to PDS/@SNTPTST
+2023-04-03 00:46:05.050822 - Found ETS1.x-dosexec containing application/x-dosexec, moved to PDS/ETS1
+2023-04-03 00:46:05.052827 - Found IPCOPY.txt (text/plain) in CBT.V504.FILE501.PDS, moved to PDS/IPCOPY
+2023-04-03 00:46:05.053731 - Found README.txt (text/plain) in CBT.V504.FILE501.PDS, moved to PDS/README
+2023-04-03 00:46:05.055567 - De-xmi-ed RFC2030 to CBT501/docs/RFC2030.doc
+2023-04-03 00:46:05.056785 - Found SNTP.txt (text/plain) in CBT.V504.FILE501.PDS, moved to PDS/SNTP
+2023-04-03 00:46:05.057713 - Found SNTPPROC.txt (text/plain) in CBT.V504.FILE501.PDS, moved to PDS/SNTPPROC
+2023-04-03 00:46:05.058627 - Found SNTPRATE.txt (text/plain) in CBT.V504.FILE501.PDS, moved to PDS/SNTPRATE
+2023-04-03 00:46:05.059658 - Found SNTPTEST.txt (text/plain) in CBT.V504.FILE501.PDS, moved to PDS/SNTPTEST
+2023-04-03 00:46:05.061629 - De-xmi-ed S2968KCA to CBT501/docs/S2968KCA.ppt
+2023-04-03 00:46:05.062661 - Found X2CTBL.txt (text/plain) in CBT.V504.FILE501.PDS, moved to PDS/X2CTBL
